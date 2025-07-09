@@ -1,0 +1,1 @@
+# AWS_AI_Cert_Study_Resource
